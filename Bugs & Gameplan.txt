@@ -1,4 +1,3 @@
-Grade filter is half-broken
 Need to speed it up.
 Try to make only requested lessons data available
 Link to course days, pandascrape.ipynb
